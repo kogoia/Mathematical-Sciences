@@ -25,6 +25,7 @@
 - [What is Mathematics? - Richard Courant](http://ilib.mccme.ru/pdf/kurant.pdf)
 - [Кому нужна математика? - Нелли Литвак, Андрей Райгородский](https://www.mann-ivanov-ferber.ru/book/komu-nuzhna-matematika/)
 - [more...](https://math.hse.ru/books)
+- [Читальный зал для студентов](https://www.chem-astu.ru/chair/study/elib-altstu.php)
 
 # Cources:
 - [100 уроков математики](https://www.youtube.com/playlist?list=PL8n_ZHoHDPESLDJN2NJivDYLNGtpJEBoy)

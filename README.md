@@ -34,6 +34,9 @@
 - [100 уроков математики](https://www.youtube.com/playlist?list=PL8n_ZHoHDPESLDJN2NJivDYLNGtpJEBoy)
 - [KHANACADEMY](https://www.khanacademy.org/)
 
+# Tutorials:
+- [Learning Objects for Linear Algebra](http://thejuniverse.org/PUBLIC/LinearAlgebra/LOLA/contents.html)
+
 # Posts:
 - [Теория множеств](http://ru.math.wikia.com/wiki/%D0%9A%D0%B0%D1%82%D0%B5%D0%B3%D0%BE%D1%80%D0%B8%D1%8F:%D0%A2%D0%B5%D0%BE%D1%80%D0%B8%D1%8F_%D0%BC%D0%BD%D0%BE%D0%B6%D0%B5%D1%81%D1%82%D0%B2)
 
@@ -41,3 +44,4 @@
 - [Monomorphism](https://en.wikipedia.org/wiki/Monomorphism) - [Injective](https://en.wikipedia.org/wiki/Injective_function)
 - [Epimorphism](https://en.wikipedia.org/wiki/Epimorphism) - [Surjective](https://en.wikipedia.org/wiki/Surjective_function)
 - [Isomorphism](https://en.wikipedia.org/wiki/Isomorphism) - [Bijection](https://en.wikipedia.org/wiki/Bijection)
+
